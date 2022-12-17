@@ -14,25 +14,25 @@
 
 ## 簡単な使い方
 ### 二つあります。
-* `ros2 run mypkg talker`を端末で立ち上げて行った後に<cb>
+* `ros2 run mypkg talker`を端末で立ち上げて行った後に<br>
 `ros2 run mypkg listener`をもう一つの端末を立ち上げて行う。
 	* 実行結果
 	  [INFO] [1671245591.045926600] [listener]: age: 19
 
 * 上記のコマンド順序を入れ替えて行う。
 	* 実行結果
-	  [INFO] [1671245733.760671800] [listener]: 待機中
-	  [INFO] [1671245734.763645700] [listener]: 待機中
-	  [INFO] [1671245735.769432800] [listener]: age: 19
+	  [INFO] [1671245733.760671800] [listener]: 待機中<br>
+	  [INFO] [1671245734.763645700] [listener]: 待機中<br>
+	  [INFO] [1671245735.769432800] [listener]: age: 19<br>
 
 * どちらも同じものを出力するもので、待機中が入るか入らないかの違いです。
 
 ## 型の名前とデータについて
 * 型の名前はQuery
 * データは
-	* string name<cb>
-	---<cb>
-	uint8 age<cb>
+	* string name<br>
+	---<br>
+	uint8 age<br>
 です。
 
 LICENSE・使用しているコードについて
