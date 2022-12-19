@@ -14,7 +14,7 @@
 * `git clone -b person_msgs <mypkgのリポジトリのURL>`
 
 ## 簡単な使い方
-### 二つあります。(どちらもmypkgのローカルリポジトリのブランチはperson_msgsにしてください)
+### 二つあります。
 * `ros2 run mypkg talker`を端末で立ち上げて行った後に<br>
 `ros2 run mypkg listener`をもう一つの端末を立ち上げて行う。
 	* 実行結果
