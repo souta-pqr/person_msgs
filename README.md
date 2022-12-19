@@ -11,7 +11,7 @@
 
 ## 起動する手順
 * `git clone <person_msgsのリポジトリのURL>`
-* `git clone <mypkgのリポジトリのURL>`
+* `git clone -b person_msgs <mypkgのリポジトリのURL>`
 
 ## 簡単な使い方
 ### 二つあります。(どちらもmypkgのローカルリポジトリのブランチはperson_msgsにしてください)
