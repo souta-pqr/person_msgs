@@ -13,7 +13,7 @@
 ### 二つあります。
 * `ros2 run mypkg talker`を端末で立ち上げて行った後に<br>
 `ros2 run mypkg listener`をもう一つの端末を立ち上げて行う。
-	* 実行結果
+	* 実行結果<br>
 	  [INFO] [1671245591.045926600] [listener]: age: 19
 
 * 上記のコマンド順序を入れ替えて行う。
