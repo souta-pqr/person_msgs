@@ -9,10 +9,6 @@
 ## 動作確認済み環境
 * ubuntu22.04
 
-## 起動する手順
-* `git clone <person_msgsのリポジトリのURL>`
-* `git clone -b person_msgs <mypkgのリポジトリのURL>`
-
 ## 簡単な使い方
 ### 二つあります。
 * `ros2 run mypkg talker`を端末で立ち上げて行った後に<br>
